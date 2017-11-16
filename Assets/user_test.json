@@ -1,0 +1,423 @@
+{
+    "00Iypjs64pYN8YSK6eqSC5OK3FR2" : {
+      "basicInfo" : {
+        "groupCode" : "courtney_boyd201705",
+        "username" : "512111"
+      },
+      "email" : "512111@users.alienrescue.net",
+      "isActive" : true,
+      "probeBudget" : 154822000,
+      "probes" : {
+        "-KkRxKhqi7hvTcrRBeC2" : {
+          "destination" : {
+            "justification" : "becuase i dont have a lot information about Saturn\n",
+            "name" : "Saturn-ista",
+            "selectedPlanet" : [ "SATURN" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Thermometer"
+          }, {
+            "name" : "Seismograph"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeSource" : [ {
+              "name" : "Thermoelectric"
+            }, {
+              "name" : "Battery"
+            }, {
+              "name" : "Solar Panels"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter"
+            }
+          },
+          "results" : {
+            "description" : "Success: there is Thermoelectric",
+            "isSuccessful" : true
+          },
+          "timeStamp" : "Thursday, May 18, 2017 2:07 PM"
+        },
+        "-KkWGCmIFMlJqzGW5VUJ" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "bc",
+            "selectedPlanet" : [ "TITAN" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Thermometer"
+          }, {
+            "name" : "Seismograph"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeType" : {
+              "name" : "Orbiter with Lander"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Friday, May 19, 2017 10:12 AM"
+        },
+        "-KklX8HmW3Y6sNOUXP4-" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "Your-anus",
+            "selectedPlanet" : [ "URANUS" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Seismograph"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter with Lander"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Monday, May 22, 2017 2:00 PM"
+        },
+        "-KklXWvOooAxTiU5qSUK" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "Calley-sto",
+            "selectedPlanet" : [ "CALLISTO" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Magnetometer"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Monday, May 22, 2017 2:02 PM"
+        },
+        "-KklXwW9zIZnSiJdYbsl" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "Gany- meeddeeeeee",
+            "selectedPlanet" : [ "GANYMEDE" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Thermometer"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter with Lander"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Monday, May 22, 2017 2:04 PM"
+        },
+        "-KklY0NwjvQ_JWY-I1Da" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "dracula",
+            "selectedPlanet" : [ "GANYMEDE" ]
+          },
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Monday, May 22, 2017 2:04 PM"
+        }
+      },
+      "role" : "Student"
+    },
+    "01bor28Ne7P8fDdM1k5KcBwPc563" : {
+      "basicInfo" : {
+        "groupCode" : "michael_bedford201702",
+        "username" : "ss412091"
+      },
+      "email" : "ss412091@users.alienrescue.net",
+      "isActive" : true,
+      "notes" : {
+        "ALIEN" : [ {
+          "category" : "ALIEN",
+          "content" : [ {
+            "content" : "they live on the 2nd planet of our solar system they call jaka, they both have a spoken and written language few know more like kaylid and eolani,also if they breathe in any hydrogen they will die, also in there atmosphere  they breathe in sulfur, the Jaka are very initiative they mine for gases minerals and gems tomake tools etc the Jaka are very good farmers and scientist and after the Eolani came thejaka where taught to use computers    ",
+            "subcategory" : "Other"
+          } ],
+          "createdAt" : "Tuesday, May 16th 2017, 3:01:43 pm",
+          "id" : "_txjcfwxs6",
+          "name" : "Jaka",
+          "selected" : true
+        } ]
+      },
+      "probeBudget" : 159779000,
+      "probes" : {
+        "-KkHvVtKtqcF350HXeYq" : {
+          "destination" : {
+            "justification" : "get there",
+            "name" : "uranus ",
+            "selectedPlanet" : [ "EARTH" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Radar"
+          }, {
+            "name" : "Narrow Angle Camera"
+          }, {
+            "name" : "Thermometer"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "Low Gain Antenna"
+            } ],
+            "selectedProbeSource" : [ {
+              "name" : "Battery"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Flyby"
+            }
+          },
+          "results" : {
+            "description" : "Failed: Only Battery without Solar panels",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Tuesday, May 16, 2017 3:23 PM"
+        }
+      },
+      "role" : "Student"
+    },
+    "00Iypjs64pYN8YSK6eqSC5OK3FR2" : {
+      "basicInfo" : {
+        "groupCode" : "courtney_boyd201705",
+        "username" : "512111"
+      },
+      "email" : "512111@users.alienrescue.net",
+      "isActive" : true,
+      "probeBudget" : 154822000,
+      "probes" : {
+        "-KkRxKhqi7hvTcrRBeC2" : {
+          "destination" : {
+            "justification" : "becuase i dont have a lot information about Saturn\n",
+            "name" : "Saturn-ista",
+            "selectedPlanet" : [ "SATURN" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Thermometer"
+          }, {
+            "name" : "Seismograph"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeSource" : [ {
+              "name" : "Thermoelectric"
+            }, {
+              "name" : "Battery"
+            }, {
+              "name" : "Solar Panels"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter"
+            }
+          },
+          "results" : {
+            "description" : "Success: there is Thermoelectric",
+            "isSuccessful" : true
+          },
+          "timeStamp" : "Thursday, May 18, 2017 2:07 PM"
+        },
+        "-KkWGCmIFMlJqzGW5VUJ" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "bc",
+            "selectedPlanet" : [ "TITAN" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Thermometer"
+          }, {
+            "name" : "Seismograph"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeType" : {
+              "name" : "Orbiter with Lander"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Friday, May 19, 2017 10:12 AM"
+        },
+        "-KklX8HmW3Y6sNOUXP4-" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "Your-anus",
+            "selectedPlanet" : [ "URANUS" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Seismograph"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter with Lander"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Monday, May 22, 2017 2:00 PM"
+        },
+        "-KklXWvOooAxTiU5qSUK" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "Calley-sto",
+            "selectedPlanet" : [ "CALLISTO" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Magnetometer"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Monday, May 22, 2017 2:02 PM"
+        },
+        "-KklXwW9zIZnSiJdYbsl" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "Gany- meeddeeeeee",
+            "selectedPlanet" : [ "GANYMEDE" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Thermometer"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter with Lander"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Monday, May 22, 2017 2:04 PM"
+        },
+        "-KklY0NwjvQ_JWY-I1Da" : {
+          "destination" : {
+            "justification" : "bc",
+            "name" : "dracula",
+            "selectedPlanet" : [ "GANYMEDE" ]
+          },
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "High Gain Antenna"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Orbiter"
+            }
+          },
+          "results" : {
+            "description" : "Failed: No power or communication tools",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Monday, May 22, 2017 2:04 PM"
+        }
+      },
+      "role" : "Student"
+    },
+    "01bor28Ne7P8fDdM1k5KcBwPc564" : {
+      "basicInfo" : {
+        "groupCode" : "michael_bedford201702",
+        "username" : "ss412092"
+      },
+      "email" : "ss412091@users.alienrescue.net",
+      "isActive" : true,
+      "notes" : {
+        "ALIEN" : [ {
+          "category" : "ALIEN",
+          "content" : [ {
+            "content" : "they live on the 2nd planet of our solar system they call jaka, they both have a spoken and written language few know more like kaylid and eolani,also if they breathe in any hydrogen they will die, also in there atmosphere  they breathe in sulfur, the Jaka are very initiative they mine for gases minerals and gems tomake tools etc the Jaka are very good farmers and scientist and after the Eolani came thejaka where taught to use computers    ",
+            "subcategory" : "Other"
+          } ],
+          "createdAt" : "Tuesday, May 16th 2017, 3:01:43 pm",
+          "id" : "_txjcfwxs6",
+          "name" : "Jaka",
+          "selected" : true
+        } ]
+      },
+      "probeBudget" : 159779000,
+      "probes" : {
+        "-KkHvVtKtqcF350HXeYq" : {
+          "destination" : {
+            "justification" : "get there",
+            "name" : "uranus ",
+            "selectedPlanet" : [ "EARTH" ]
+          },
+          "probeInstruments" : [ {
+            "name" : "Radar"
+          }, {
+            "name" : "Narrow Angle Camera"
+          }, {
+            "name" : "Thermometer"
+          } ],
+          "probeSpecifications" : {
+            "selectedProbeCommunication" : [ {
+              "name" : "Low Gain Antenna"
+            } ],
+            "selectedProbeSource" : [ {
+              "name" : "Battery"
+            } ],
+            "selectedProbeType" : {
+              "name" : "Flyby"
+            }
+          },
+          "results" : {
+            "description" : "Failed: Only Battery without Solar panels",
+            "isSuccessful" : false
+          },
+          "timeStamp" : "Tuesday, May 16, 2017 3:23 PM"
+        }
+      },
+      "role" : "Student"
+    }
+    
+}
